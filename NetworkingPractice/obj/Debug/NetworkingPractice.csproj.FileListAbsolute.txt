@@ -1,0 +1,7 @@
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\bin\Debug\NetworkingPractice.exe.config
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\bin\Debug\NetworkingPractice.exe
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\bin\Debug\NetworkingPractice.pdb
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\obj\Debug\NetworkingPractice.csprojResolveAssemblyReference.cache
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\obj\Debug\NetworkingPractice.csproj.CoreCompileInputs.cache
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\obj\Debug\NetworkingPractice.exe
+c:\users\addle\source\repos\NetworkingPractice\NetworkingPractice\obj\Debug\NetworkingPractice.pdb
